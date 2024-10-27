@@ -21,9 +21,8 @@ This project is a static front-end clone of Amazon's homepage, built using **HTM
 
 ## Demo
 
-[Include a screenshot of the homepage here or link to a live demo if available.]
+#Screenshots
 
-![Amazon Clone Screenshot]
 ![Screenshot (4)](https://github.com/user-attachments/assets/eb58f086-2622-40f0-aa50-757c39471b7c)
 ![Screenshot (5)](https://github.com/user-attachments/assets/f96525c6-c6b8-4c89-8a11-e272da4cbd67)
 
