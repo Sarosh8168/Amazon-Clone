@@ -1,6 +1,3 @@
-Here's a README template for your Amazon Clone project:
-
----
 
 # Amazon Clone
 
