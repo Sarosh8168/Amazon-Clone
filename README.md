@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7c9249233e9975cfdabbed1e4f01184e25aa434f
 # Amazon Clone
 
 This is a simple front-end clone of the Amazon website created using HTML and CSS. This project is designed to mimic the basic layout and design elements of Amazon's homepage, demonstrating fundamental skills in structuring web pages and styling with CSS.
