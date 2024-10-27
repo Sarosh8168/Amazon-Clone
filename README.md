@@ -1,7 +1,3 @@
-Here's a README template for your Amazon Clone project:
-
----
-
 # Amazon Clone
 
 This is a simple front-end clone of the Amazon website created using HTML and CSS. This project is designed to mimic the basic layout and design elements of Amazon's homepage, demonstrating fundamental skills in structuring web pages and styling with CSS.
